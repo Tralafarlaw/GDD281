@@ -28,10 +28,10 @@
     * [Fin de nivel](#fin-de-nivel)
 5. [Arte](#arte)
 
-##Cambios
+# Cambios
 
 
-##Introduccion
+# Introduccion
 El objetivo del juego  es ganar tantos puntos como sea posible destruyendo enemigos con forma de insecto. El jugador controla una nave que puede mover de izquierda a derecha en el fondo de la pantalla de juego.
 
 Los enemigos se agrupan en formacion creca de la parte superior de la pantalla de juego y luego vuelan hacia la direccion del jugador disparando proyectiles e intentando chocar con el. En niveles superiores algunos enemigos incluso atacan en formacion para atacar al jugador. 
@@ -40,78 +40,78 @@ El juego termina cuando el jugador se queda sin vidas, ya sea colisionando con u
 
 **Objetivo:** Sobrevivir tanto como sea posible con el puntaje mas alto.
 
-###Concepto del juego
+## Concepto del juego
 
 
-###Caracteristicas principales
+## Caracteristicas principales
 
 
-###Genero
+## Genero
 
 
-###Proposito y publico objetivo
+## Proposito y publico objetivo
 
 
-###Jugabilidad {#jugabilidad-I}
+## Jugabilidad {#jugabilidad-I}
 
 
-###Estilo visual
+## Estilo visual
 
 
-###Alcance
+## Alcance
 
 
-##Mecánicas de juego
+# Mecánicas de juego
 
 
-###Jugabilidad
+## Jugabilidad
 
 
-###Flujo de juego
+## Flujo de juego
 
 
-###Personajes
+## ersonajes
 
 
-###Protagonista
+## protagonista
 
 
-###Movimiento y fisicas
+## Movimiento y fisicas
 
 
-###Interaccion entre elementos
+## Interaccion entre elementos
 
 
-###Controles
+## Controles
 
 
-##Interfaz
+# Interfaz
 
 
-###Diagrama de flujo
+## Diagrama de flujo
 
 
-###Menu principal
+## Menu principal
 
 
-###Creditos
+## Creditos
 
 
-###Seleccion de perfil
+## Seleccion de perfil
 
 
-###Seleccion de nivel
+## Seleccion de nivel
 
 
-###Seleccion de habilidades
+## Seleccion de habilidades
 
 
-###Nivel
+## Nivel
 
 
-###Fin de nivel
+## Fin de nivel
 
 
-##Arte
+# Arte
 
 

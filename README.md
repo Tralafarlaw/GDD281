@@ -52,7 +52,7 @@ El juego termina cuando el jugador se queda sin vidas, ya sea colisionando con u
 ## Proposito y publico objetivo
 
 
-## Jugabilidad {#jugabilidad-I}
+## Jugabilidad
 
 
 ## Estilo visual

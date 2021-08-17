@@ -42,8 +42,8 @@ El juego cuenta con un total de 255 niveles, incluyendo los ocho niveles diferen
 
 ## Caracteristicas principales
 El juego se basa en los siguientes pilares:
-   * ### Planteamiento sencillo: el objetivo del juego es muy simple, simplemente se requiere destruir las naves enemigas.
-   * ### Tactica: 
+   * Planteamiento sencillo: el objetivo del juego es muy simple, simplemente se requiere destruir las naves enemigas.
+   * Tactica: 
 
 ## Genero
 

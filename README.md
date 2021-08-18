@@ -252,7 +252,9 @@ Menú principal cuenta con dos opciones que son:
    ![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)
 ## Creditos
 **Desarrollador:** Namco
+
 **Editor:** Bandai América (NA), Namco (JP)
+
 
 Los creditos se les puede encontrar en la siguiente imagen:
 ![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)

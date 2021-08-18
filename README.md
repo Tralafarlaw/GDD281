@@ -61,10 +61,11 @@ El jugador tiene un caza estelar solitario en la parte inferior de la pantalla, 
 En unos niveles en encima de la formación enemiga hay unos grandes alienígenas conocidos como “Boss Galaga”, que necesitan dos disparos para destruir. Estos extraterrestres pueden usar un rayo tractor para capturar la nave del jugador, regresando con él a la parte superior de la formación y costándole una vida al jugador. Si quedan vidas adicionales, el jugador tiene la oportunidad de derribar al Boss Galaga que sostiene la nave capturada.
 
 ## Estilo visual
-Galaga tendrá un estilo visual más asemejado al espacio con un fondo mas oscuro y detallado con partículas de un color claro que ayudará al jugador a poder distinguir los alienígenas como también los disparos tanto como del enemigo como también de casa estelar del jugador. El estilo visual es mas asemejado a los dibujos pixelados para que se pueda obtener una percepción mas clara de lo que es la colisión de las balas a los alienígenas como también de la casa estelar 
+Galaga tendrá un estilo visual más asemejado al espacio con un fondo mas oscuro y detallado con partículas de un color claro que ayudará al jugador a poder distinguir los alienígenas como también los disparos tanto como del enemigo como también de casa estelar del jugador. El estilo visual es mas asemejado a los dibujos pixelados para que se pueda obtener una percepción mas clara de lo que es la colisión de las balas a los alienígenas como también de las balas de los alienígenas a la casa estelar. 
 
 ## Alcance
-
+El objetivo principal de **Galaga** es desarrollar un sistema de juego sólido al que podamos introducirle contenidos sin
+dificultad. En primera instancia se desarrollará un pack de contenidos básicos que será ampliado en un futuro.
 
 # Mecánicas de juego
 

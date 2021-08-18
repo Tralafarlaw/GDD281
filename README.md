@@ -50,13 +50,18 @@ El juego se basa en los siguientes pilares:
 
 
 ## Proposito y publico objetivo
+El objetivo de Galaga es anotar tantos puntos como sea posible mediante la destrucción de enemigos similares a insectos. El jugador controla un caza estelar que puede moverse a izquierda y derecha a lo largo de la parte inferior del campo de juego.
 
+Galaga está dirigido a jugadores de un amplio rango de edades en la cual ya puedan usar sus instintos y sentidos de persepción del fuego como tambíen cuentan con un tiempo limitado que dedicar al ocio electrónico. Por ello, se apuesta por un sistema de partidas cortas y recompensas rápidas. 
+La historia es sencilla, lo que permite poder jugar de forma esporádica.
 
 ## Jugabilidad
-
+Obtienes 3 cazas estelares al principio del juego (puedes obtener más). Te mueves a la izquierda y a la derecha y puedes disparar teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si tu luchador es capturado por un Bossfighter, puedes matar al Bossfighter para recuperarlo, y luego lo hace se une con tu Caza Estelar actual para que tengas 2 cazas estelares a la vez y puedas disparar 2 balas a la vez (máximo 4).
+El jugador tiene un caza estelar solitario en la parte inferior de la pantalla, que debe evitar que las fuerzas de Galaga destruyan a toda la humanidad. El objetivo de cada etapa es derrotar a todos los extraterrestres Galaga, que volarán en formación desde la parte superior y los lados de la pantalla. Al igual que Galaxian, los extraterrestres se lanzarán hacia el jugador mientras disparan proyectiles; colisionar con proyectiles o alienígenas resultará en la pérdida de una vida.
+En unos niveles en encima de la formación enemiga hay unos grandes alienígenas conocidos como “Boss Galaga”, que necesitan dos disparos para destruir. Estos extraterrestres pueden usar un rayo tractor para capturar la nave del jugador, regresando con él a la parte superior de la formación y costándole una vida al jugador. Si quedan vidas adicionales, el jugador tiene la oportunidad de derribar al Boss Galaga que sostiene la nave capturada.
 
 ## Estilo visual
-
+Galaga tendra un estilo visual mas asemejado al 
 
 ## Alcance
 

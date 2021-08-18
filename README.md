@@ -111,7 +111,8 @@ Los creditos se les puede encontrar en la siguiente imagen(https://cdn02.nintend
 Costa de dos botones que son 1 Player y 2 Player que es la misma que la del menú principal 
 
 ## Seleccion de perfil
-
+En la selección de perfil se puede apreciar que no consta de perfiles para escoger ya que es un fuego que no tiene autoguardado en la cual solo consta de dos perfiles prediseñados en la que pueden jugar dos fugadores o uno y que también al escoger unos de los dos modos de juegos ya sea de un jugador o dos es directamente dirigido al nivel 1 como se puede apreciar en el fuego Super Mario Bros.
+Se puede apreciar en el siguiente enlace el modo de ingreso del juego:https://www.nintendo.es/Juegos/NES/Galaga--789285.html
 
 ## Seleccion de nivel
 

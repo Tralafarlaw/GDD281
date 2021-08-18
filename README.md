@@ -240,7 +240,9 @@ Si un Boss Fighter te roba una vida puedes recuperarla para obtener un compañer
    
 
 ## Diagrama de flujo
-
+El siguiente diagrama de estados muestra las pantallas presentes a lo largo de Galaga  y las transiciones
+entre ellas. En puntos posteriores nos centraremos en ellas de forma individual.
+![IMG-20160201-WA0003](https://user-images.githubusercontent.com/89058289/129837062-38a7a940-25e1-422a-b58b-0757c44ad254.jpg)
 
 ## Menu principal
 Menú principal cuenta con dos opciones que son:

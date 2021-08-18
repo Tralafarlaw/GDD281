@@ -120,6 +120,9 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
 
 
 # Arte
+**Galaga** debe tener un fondo oscuro que sea más de tipo espacial para que se pueda apreciar las naves de los alienígenas con colores resaltantes como también la casa estelar del jugador es una nave espacial notoria con colores mas resaltantes y en lo cual estos colores deben ser llamativos al igual que las balas para que no pueda existir conflicto con el fondo oscuro 
+Espacio de desplazamiento/fondo de estrella (generado)
+Encontrado en (http://spritedatabase.net/file/10492)
 
 # Audio
 Clips de sonido encontrados (http://www.sounds-resource.com/arcade/galagaarrangement/sound/3665/)

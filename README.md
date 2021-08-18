@@ -269,7 +269,11 @@ Como se puede apreciar en el siguiente video:https://www.youtube.com/watch?v=UPc
 
 ## Seleccion de habilidades
 Obtienes 3 cazas estelares al principio del juego (puedes obtener más).Teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si la casa estear es capturado por un Bossfighter, puedes matar al Bossfighter para recuperarlo, y luego lo hace se une con tu Caza Estelar actual para que tengas 2 cazas estelares a la vez y puedas disparar 2 balas a la vez (máximo 4).
-Se puede apreciar en la siguiente imagen:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqvyyopmr2qKMYigCXGDorrNSD6D2LZV6gaa6FCu3n71nHPMEr71Yvr8degn5hWC4pZ0&usqp=CAU
+Se puede apreciar en la siguiente imagen:
+![e1](https://user-images.githubusercontent.com/89058289/129838657-6f365a8e-86ef-4726-b4a6-5c0cd08ad636.png)
+
+
+
 Cuando es retraido por el Bossfighter:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
 Cuando es recuperado el caza estelar:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
 ## Nivel

@@ -248,8 +248,8 @@ entre ellas. En puntos posteriores nos centraremos en ellas de forma individual.
 Menú principal cuenta con dos opciones que son:
 * Botón 1 PLAYER (un jugador) que al pulsar lleva al primer nivel del Galaga
 * Botón 2 PLAYER (dos jugadores) que al pulsarlo lleva al primer jugador al primer nivel y una vez este muera lleva al segundo al primer nivel y asi susecivamnete al nivele que les corresponda por turnos de jugadores.
-   la imagen se puede ver en el siguiente enlace:https://oldgameshelf.com/roms/nes/galaga/images/nes_galaga_1.jpg
-
+   Como se ve en la siguiente imagen:
+   ![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)
 ## Creditos
 Desarrollador: Namco
 Editor: Bandai América (NA), Namco (JP)

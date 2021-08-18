@@ -93,20 +93,22 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
 
 
 # Interfaz
-   * Menú principal cuenta con dos opciones que son para 1 PLAYER (un jugador) y 2 PLAYER (dos jugadores) que van por turnos para jugar
-   la imagen se puede ver :https://oldgameshelf.com/roms/nes/galaga/images/nes_galaga_1.jpg
-   * Niveles se puede apreciar los niveles distintos en una de las paginas del fuego que es la siguiente:https://www.nintendo.es/Juegos/NES/Galaga--789285.html
+   
 
 ## Diagrama de flujo
 
 
 ## Menu principal
-
+Menú principal cuenta con dos opciones que son:
+* Botón 1 PLAYER (un jugador) que al pulsar lleva al primer nivel del Galaga
+* Botón 2 PLAYER (dos jugadores) que al pulsarlo lleva al primer jugador al primer nivel y una vez este muera lleva al segundo al primer nivel y asi susecivamnete al nivele que les corresponda por turnos de jugadores.
+   la imagen se puede ver en el siguiente enlace:https://oldgameshelf.com/roms/nes/galaga/images/nes_galaga_1.jpg
 
 ## Creditos
 Desarrollador: Namco
 Editor: Bandai América (NA), Namco (JP)
 Los creditos se les puede encontrar en la siguiente imagen(https://cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/virtual_console_wii_u_3/wiiuvc_galaga/WiiUVC_Galaga_01.bmp)
+Costa de dos botones que son 1 Player y 2 Player que es la misma que la del menú principal 
 
 ## Seleccion de perfil
 

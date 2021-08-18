@@ -273,9 +273,11 @@ Se puede apreciar en la siguiente imagen:
 ![e1](https://user-images.githubusercontent.com/89058289/129838657-6f365a8e-86ef-4726-b4a6-5c0cd08ad636.png)
 
 Cuando es retraido por el Bossfighter:
+
 ![e2](https://user-images.githubusercontent.com/89058289/129838806-b4778c2a-bfc5-4a2f-8cfa-83d140b49b37.jpg)
 
 Cuando es recuperado el caza estelar:
+
 ![e3](https://user-images.githubusercontent.com/89058289/129838860-7a21de79-6974-4c43-92b7-7be72509c5c5.jpg)
 
 ## Nivel

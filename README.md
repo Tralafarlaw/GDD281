@@ -301,7 +301,10 @@ Unhurt BossFighters (green) pierden 1 vida &se convierten en blue  Player Death
 
 La nave del jugador explota cuando es alcanzada por una bala enemiga o cualquier enemigo.
 
-Si (vidas>0) Luego actualiza las vidas restantes, mueve a todos los enemigos de vuelta a sus posiciones de origen, pausa, muestra la pantalla "listo?" durante 2 segundos, haz una nueva nave y deja que el juego continúe como se ve en la siguinete imagen: https://oldgameshelf.com/roms/nes/galaga/images/upload-galaga-1573954570429.jpeg
+Si (vidas>0) Luego actualiza las vidas restantes, mueve a todos los enemigos de vuelta a sus posiciones de origen, pausa, muestra la pantalla "listo?" durante 2 segundos, haz una nueva nave y deja que el juego continúe como se ve en la siguinete imagen:
+
+![r1](https://user-images.githubusercontent.com/89058289/129839220-453cea0d-6d0e-4c2d-bd89-3ea113f9b0a2.jpeg)
+
 
 Si no quedan más vidas, mueva a todos los enemigos de vuelta a sus posiciones de origen, muestre "GAME OVER" durante 2 segundos, luego vaya a la pantalla de resultados (derecha-->)
 como muestra la siguiente imagen:https://www.gamesdatabase.org/Media/SYSTEM/Arcade/GameOver/big/Galaga_3_-_1984_-_Namco.jpg

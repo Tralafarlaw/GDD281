@@ -44,7 +44,7 @@ El juego cuenta con un total de 255 niveles, incluyendo los ocho niveles diferen
 El juego se basa en los siguientes pilares:
    * **Planteamiento sencillo:** el objetivo del juego es muy simple, simplemente se requiere destruir las naves enemigas.
    * **Tactica:** mover la nave de izquierda a derecha, para esquivar tanto los misiles como los ataques de las naves enemigas, y con ayuda del cañon y nuestra punteria destruir las naves enemigas.
-   * **Dinamismo:** **Galaga** es un juego muy dinamico que muchas veces provoca en el jugador un sensacion de tención en el jugador.
+   * **Dinamismo:** **Galaga:** es un juego muy dinamico que muchas veces provoca en el jugador un sensacion de tención en el jugador.
 
 ## Genero
 

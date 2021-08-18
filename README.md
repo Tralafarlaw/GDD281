@@ -1,33 +1,42 @@
 # Indice
 
-1. [Cambios](#cambios)
-2. [Introduccion](#introduccion)
-    * [Concepto del juego](#concepto-del-juego)
-    * [Caracteristicas principales](#caracteristicas-principales)
-    * [Genero](#genero)
-    * [Proposito y publico objetivo](#proposito-y-publico-objetivo)
-    * [Jugabilidad](#jugabilidad)
-    * [Estilo visual](#estilo-visual)
-    * [Alcance](#alcance)
-3. [Mecánicas de juego](#mec-nicas-de-juego)
-    * [Jugabilidad](#jugabilidad-1)
-    * [Flujo de juego](#flujo-de-juego)
-    * [Personajes](#personajes)
-    * [Protagonista](#protagonista)
-    * [Movimiento y fisicas](#movimiento-y-fisicas)
-    * [Interaccion entre elementos](#interaccion-entre-elementos)
-    * [Controles](#controles)
-4. [Interfaz](#interfaz)
-    * [Diagrama de flujo](#diagrama-de-flujo)
-    * [Menu principal](#menu-principal)
-    * [Creditos](#creditos)
-    * [Seleccion de perfil](#seleccion-de-perfil)
-    * [Seleccion de nivel](#seleccion-de-nivel)
-    * [Seleccion de habilidades](#seleccion-de-habilidades)
-    * [Nivel](#nivel)
-    * [Fin de nivel](#fin-de-nivel)
-5. [Arte](#arte)
-    * [Audio](#audio)
+- [Indice](#indice)
+- [Cambios](#cambios)
+- [Introduccion](#introduccion)
+  - [Concepto del juego](#concepto-del-juego)
+  - [Caracteristicas principales](#caracteristicas-principales)
+  - [Genero](#genero)
+  - [Proposito y publico objetivo](#proposito-y-publico-objetivo)
+  - [Jugabilidad](#jugabilidad)
+  - [Estilo visual](#estilo-visual)
+  - [Alcance](#alcance)
+- [Mecánicas de juego](#mecánicas-de-juego)
+  - [Jugabilidad](#jugabilidad-1)
+    - [Modo introduccion](#modo-introduccion)
+    - [Modo enjambre](#modo-enjambre)
+    - [Modo suicida](#modo-suicida)
+    - [Modo Homing *(moviéndose a sus posiciones iniciales en modo de enjambre)*](#modo-homing-moviéndose-a-sus-posiciones-iniciales-en-modo-de-enjambre)
+  - [Flujo de juego](#flujo-de-juego)
+    - [Cambios de nivel](#cambios-de-nivel)
+    - [Muerte enemiga](#muerte-enemiga)
+    - [Muerte del jugador](#muerte-del-jugador)
+    - [Game Over](#game-over)
+  - [Personajes](#personajes)
+  - [Protagonista](#protagonista)
+  - [Movimiento y fisicas](#movimiento-y-fisicas)
+  - [Interaccion entre elementos](#interaccion-entre-elementos)
+  - [Controles](#controles)
+- [Interfaz](#interfaz)
+  - [Diagrama de flujo](#diagrama-de-flujo)
+  - [Menu principal](#menu-principal)
+  - [Creditos](#creditos)
+  - [Seleccion de perfil](#seleccion-de-perfil)
+  - [Seleccion de nivel](#seleccion-de-nivel)
+  - [Seleccion de habilidades](#seleccion-de-habilidades)
+  - [Nivel](#nivel)
+  - [Fin de nivel](#fin-de-nivel)
+- [Arte](#arte)
+- [Audio](#audio)
 
 # Cambios
 
@@ -73,24 +82,159 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
 
 ## Jugabilidad
 
+### Modo introduccion
+
+Hay 4 caminos que los enemigos siguen en todos los niveles, cuando acaban entra en modo homing.
+
+**Nivel impar**
+
+> 1er grupo
+>
+>> *camino 1* `[8, 9, 16, 17]`
+>>
+>> *camino 2*  `[25, 26, 35, 36]`
+>>
+> 2do grupo
+> 
+>> *camino 3* `[1, 7, 2, 10, 3, 15, 4, 18]`
+>
+> 3er grupo
+> 
+>> *camino 4* `[11, 6, 12, 5, 19, 14, 20, 13]`
+>
+> 4to grupo
+>
+>> *camino 2* `[27, 24, 28, 23, 37, 34, 38, 33`
+>
+> 5to grupo
+>
+>> *camino 1* `[29, 22, 30, 31, 39, 32, 40, 31]`
+>
+
+**Nivel Par**
+
+> 1er grupo
+>
+>> *camino 1* `[8, 9, 16, 17]`
+>>
+>> *camino 2*  `[25, 26, 35, 36]`
+>>
+> 2do grupo
+> 
+>> *camino 3* `Hacia afuera (7, 10, 15, 18), Hacia adentro (1, 2, 3, 4)`
+>
+> 3er grupo
+> 
+>> *camino 4* `Hacia afuera (5, 6, 13, 14), Hacia adentro (11, 12, 19, 20)`
+>
+> 4to grupo
+>
+>> *camino 2* `Hacia afuera (27, 28, 37, 38), Hacia adentro (23, 24, 33, 34)`
+>
+> 5to grupo
+>
+>> *camino 1* `Hacia afuera (21, 22, 31, 32), Hacia adentro (29, 30, 39, 40)`
+>
+
+### Modo enjambre
+
+Los enemigos van de arriba hacia abajo y las abejas de los costados salen de formacion y de manera aleatoria entran en mono suicidad
+
+### Modo suicida
+
+Las abejas azules se mueven hacia adelante y hacia atrás una cierta cantidad y se mueven hacia la parte inferior de la pantalla. Cuándo
+llegan a la parte inferior, hacen un bucle y entran en el modo Homing. Las abejas rojas se mueven hacia adelante y hacia atrás hacia el centro de la pantalla. Cuando llegan al fondo,
+aparece en la parte superior de la pantalla y entra en el modo de inicio. Las abejas jefes toman dos abejas rojas y hacen bucles hacia el centro de la pantalla mientras disparan balas. Todos los enemigos que atacan tienen una pequeña posibilidad de disparar balas al azar hacia abajo durante su ataque.Las abejas azules
+
+### Modo Homing *(moviéndose a sus posiciones iniciales en modo de enjambre)*
+
+Las abejas se mueven hacia sus posiciones de origen desde donde estaban antes y cuando han
+llegado, se mueven en modo de enjambre.
 
 ## Flujo de juego
 
+### Cambios de nivel
 
-## ersonajes
+- Si no quedan enemigos en la pantalla, agregar 1 al contador de nivel
+- Actualice la insignia en la interfaz de usuario.
+- Genera el siguiente grupo de enemigos (se corresponde con el contador de nivel)
+
+### Muerte enemiga
+
+- Las abejas enemigas explotan al chocar con el jugador o la bala del jugador (la explosión dura 1 segundo)
+- actualizar la puntuación
+- El número de enemigos se resta en 1
+- BossFighters (verde) pierden 1 vida y se vuelven azules
 
 
-## protagonista
+### Muerte del jugador
 
+- La nave del jugador explota cuando es golpeada por un enemigo o bala. 
+- Si (vidas> 0) Entonces actualice las vidas restantes, mueva todas enemigos de vuelta a sus posiciones de origen
+- Pausa
+- mostrar pantalla de "¿Listo?" durante 2 segundos
+- Crea una nueva nave
+- Continúa  el juego
+
+### Game Over
+
+Si no quedan más vidas.
+- Mueve a todos los enemigos a sus posiciones iniciales
+- Mostrar "JUEGO TERMINADO" por 2 segundos
+- Luego vaya a la pantalla de resultados.
+
+
+## Personajes
+
+1. Boss fighters
+   
+   > 2 de salud
+   > cambian color de verde a purpura
+   > Puede robar  vidas al jugador
+
+2. Red Bees
+   
+   > 1 de salud
+   > color rojo/azul
+   > 320 puntos en fase de inicio
+   > 160 puntos en fase de enjambre
+
+3. Blue Bees
+
+   > 1 de salud
+   > color azul/amarillo
+   > 100 puntos en fase de inicio
+   > 50 puntos en fase de enjambre
+
+## Protagonista
+
+Obtienes 3 vidas al inicio del juego (*puedes obtener mas*).
+
+Te puedes mover de izquierda a derecha y puedes dispara un maximo de 2 balas en la pantalla al mismo tiempo
+
+Si un Boss Fighter te roba una vida puedes recuperarla para obtener un compañero y asi tener un maximo de 4 balas en la pantalla al mismo tiempo.
 
 ## Movimiento y fisicas
 
+> El jugador solo podra moverse de izquierda a derecha
 
 ## Interaccion entre elementos
 
+> El jugador no podra salir de la pantalla
+
+> Si el jugador chocha con un un enemigo o bala ambos quedan destruidos
+
+> Si un enemigo sale de la pantalla regresara por el otro lado
 
 ## Controles
 
+  > `<-` Izquierda
+  
+  > `->` Derecha
+
+  > `X` Ataque
+
+  > [`Enter`] Inicio / Pausa
 
 # Interfaz
 

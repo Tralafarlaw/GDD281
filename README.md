@@ -275,7 +275,9 @@ Se puede apreciar en la siguiente imagen:
 Cuando es retraido por el Bossfighter:
 ![e2](https://user-images.githubusercontent.com/89058289/129838806-b4778c2a-bfc5-4a2f-8cfa-83d140b49b37.jpg)
 
-Cuando es recuperado el caza estelar:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
+Cuando es recuperado el caza estelar:
+![e3](https://user-images.githubusercontent.com/89058289/129838860-7a21de79-6974-4c43-92b7-7be72509c5c5.jpg)
+
 ## Nivel
 Espacio de desplazamiento / fondo de estrella (píxeles coloridos generados en varias capas que se mueven a diferentes velocidades).
 

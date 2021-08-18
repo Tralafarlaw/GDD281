@@ -27,6 +27,7 @@
     * [Nivel](#nivel)
     * [Fin de nivel](#fin-de-nivel)
 5. [Arte](#arte)
+    * [Audio](#audio)
 
 # Cambios
 
@@ -120,4 +121,9 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
 
 # Arte
 
+# Audio
+Clips de sonido encontrados (http://www.sounds-resource.com/arcade/galagaarrangement/sound/3665/)
+(la mayoría estaban enprecisa)
+Compró clips precisos de iTunes por $ 2
+Haremos nuestros propios sonidos en bfxr.net para cualquiera que todavía falte.
 

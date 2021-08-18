@@ -115,12 +115,24 @@ En la selección de perfil se puede apreciar que no consta de perfiles para esco
 Se puede apreciar en el siguiente enlace el modo de ingreso del juego:https://www.nintendo.es/Juegos/NES/Galaga--789285.html
 
 ## Seleccion de nivel
-
+La seleción del nivel es de forma automática a medida que el jugador o los jugadores van matando a todos los alienígenas sin llegar a perder todas sus vidas en la que se puede constar que en cada nivele llega a ser mas dificil que la anterior ya que no se puede crear un perfil o aun guardado del nivel en la que se encuentra el jugador.
+Como se puede apreciar en el siguiente video:https://www.youtube.com/watch?v=UPcO0HvIhkA&t=546s
 
 ## Seleccion de habilidades
-
-
+Obtienes 3 cazas estelares al principio del juego (puedes obtener más).Teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si la casa estear es capturado por un Bossfighter, puedes matar al Bossfighter para recuperarlo, y luego lo hace se une con tu Caza Estelar actual para que tengas 2 cazas estelares a la vez y puedas disparar 2 balas a la vez (máximo 4).
+Se puede apreciar en la siguiente imagen:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHqvyyopmr2qKMYigCXGDorrNSD6D2LZV6gaa6FCu3n71nHPMEr71Yvr8degn5hWC4pZ0&usqp=CAU
+Cuando es retraido por el Bossfighter:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
+Cuando es recuperado el caza estelar:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
 ## Nivel
+Espacio de desplazamiento / fondo de estrella (píxeles coloridos generados en varias capas que se mueven a diferentes velocidades).
+
+La interfaz de usuario se muestra a la derecha como una barra con los siguientes elementos:
+
+*	"High Score" --> comienza en 30k (cuando la puntuación del jugador la supera, se actualiza)
+*	"Score" -->  1up / 2up (parpadean al jugar)
+*	"Vidas" -->  Fotos de los cazas estelares restantes
+*	"Nivel"-->  Imágenes de insignias de rango
+Como se muestra en la siguiente imagen:https://i.ytimg.com/vi/UPcO0HvIhkA/hqdefault.jpg
 
 
 ## Fin de nivel

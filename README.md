@@ -289,7 +289,9 @@ La interfaz de usuario se muestra a la derecha como una barra con los siguientes
 *	"Score" -->  1up / 2up (parpadean al jugar)
 *	"Vidas" -->  Fotos de los cazas estelares restantes
 *	"Nivel"-->  Imágenes de insignias de rango
-Como se muestra en la siguiente imagen:https://i.ytimg.com/vi/UPcO0HvIhkA/hqdefault.jpg
+Como se muestra en la siguiente imagen:
+
+![d1](https://user-images.githubusercontent.com/89058289/129839018-15bee433-c184-471c-9806-f1526e141b2c.jpg)
 
 
 ## Fin de nivel

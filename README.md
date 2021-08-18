@@ -39,7 +39,10 @@
 - [Audio](#audio)
 
 # Cambios
-
+Cambios con respecto a versiones anteriores del documento.
+* **Revisión 1**
+   * Correcciones en el doumento.
+   * Se agregaron modos de juego como el "Challenging Stage" y el "Arrangement".
 
 # Introduccion
 Este es el documento de diseño de Galaga, un juego desarrollado en 1981 por la compañia **Namco**, el juego estuvo disponible para la plataforma **Arcade**, posteriormente fue lanzado para diferentes consolas como la **Nintendo Entertainment System (NES)**, la **Xbox Live**, la **Xbox 360**, la **Xbox One**, etc. lo que demuestra que el juego no pasa de moda. **Galaga** es la secuela del reconocido juego **Galaxian**, el cual años antes causó furor.
@@ -56,14 +59,16 @@ El juego se basa en los siguientes pilares:
    * **Tactica:** mover la nave de izquierda a derecha, para esquivar tanto los misiles como los ataques de las naves enemigas, y con ayuda del cañon y nuestra punteria destruir las naves enemigas.
    * **Dinamismo:** **Galaga:** es un juego muy dinamico que muchas veces provoca en el jugador un sensacion de tención en el jugador.
    * **Aplicación:** **Galaga** debe ser ampliable para nuevos niveles como así también para nuevos poderes de los enemigos como poderes nuevos de la nave aliada como también se deberá poder añadir nuevos campos de fuegos. 
-## Genero
 
+## Genero
+**Galaga** supone la unión de varios géneros citados a continuación:
+* **Accion:** un género de videojuegos que enfatiza los desafíos, coordinación ojo-mano y el tiempo de reacción.
+* **shoot'em up:** un género de videojuegos en los que se controla un personaje u objeto solitario, generalmente una nave espacial, un avión o algún otro vehículo, que dispara contra hordas de enemigos que van apareciendo en pantalla.
 
 ## Proposito y publico objetivo
-El objetivo de Galaga es anotar tantos puntos como sea posible mediante la destrucción de enemigos similares a insectos. El jugador controla un caza estelar que puede moverse a izquierda y derecha a lo largo de la parte inferior del campo de juego.
+El objetivo de Galaga es anotar tantos puntos como sea posible mediante la destrucción de naves enemigas. 
 
-Galaga está dirigido a jugadores de un amplio rango de edades en la cual ya puedan usar sus instintos y sentidos de persepción del fuego como tambíen cuentan con un tiempo limitado que dedicar al ocio electrónico. Por ello, se apuesta por un sistema de partidas cortas y recompensas rápidas. 
-La historia es sencilla, lo que permite poder jugar de forma esporádica.
+Galaga está dirigido a jugadores de un amplio rango de edades en la cual ya puedan usar sus instintos y sentidos de persepción del fuego como tambíen cuentan con un tiempo limitado que dedicar al ocio electrónico. Por ello, se apuesta por un sistema de partidas cortas y recompensas rápidas, cuenta con una historia es sencilla, por lo que permite jugar de forma esporádica.
 
 ## Jugabilidad
 Obtienes 3 cazas estelares al principio del juego (puedes obtener más). Te mueves a la izquierda y a la derecha y puedes disparar teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si tu luchador es capturado por un Bossfighter, puedes matar al Bossfighter para recuperarlo, y luego lo hace se une con tu Caza Estelar actual para que tengas 2 cazas estelares a la vez y puedas disparar 2 balas a la vez (máximo 4).
@@ -71,14 +76,13 @@ El jugador tiene un caza estelar solitario en la parte inferior de la pantalla, 
 En unos niveles en encima de la formación enemiga hay unos grandes alienígenas conocidos como “Boss Galaga”, que necesitan dos disparos para destruir. Estos extraterrestres pueden usar un rayo tractor para capturar la nave del jugador, regresando con él a la parte superior de la formación y costándole una vida al jugador. Si quedan vidas adicionales, el jugador tiene la oportunidad de derribar al Boss Galaga que sostiene la nave capturada.
 
 ## Estilo visual
-Galaga tendrá un estilo visual más asemejado al espacio con un fondo mas oscuro y detallado con partículas de un color claro que ayudará al jugador a poder distinguir los alienígenas como también los disparos tanto como del enemigo como también de casa estelar del jugador. El estilo visual es mas asemejado a los dibujos pixelados para que se pueda obtener una percepción mas clara de lo que es la colisión de las balas a los alienígenas como también de las balas de los alienígenas a la casa estelar. 
+Galaga tendrá un estilo visual sencillo, asemejado al espacio con un fondo mas oscuro y detallado con partículas de un color claro que ayudará al jugador a poder distinguir los alienígenas como también los disparos tanto como del enemigo como también de casa estelar del jugador. Cuenta con un estilo visual pixeleado para que se pueda obtener una percepción mas clara de lo que es la colisión de las balas a los alienígenas como también de las balas de los alienígenas a la casa estelar. 
 
 ## Alcance
-El objetivo principal de **Galaga** es desarrollar un sistema de juego sólido al que podamos introducirle contenidos sin
-dificultad. En primera instancia se desarrollará un pack de contenidos básicos que será ampliado en un futuro.
+El objetivo principal de **Galaga** es desarrollar un sistema de juego sólido al que podamos introducirle contenidos sin dificultad. En primera instancia se desarrollará un pack de contenidos básicos que será ampliado en un futuro.
 
 # Mecánicas de juego
-
+En esta sección se entrara más en detalle de las mecánicas de **Galaga**. Se indicaran los pilares que fundamentan su jugabilidad y se detallarán las acciones que podrá llevar a cabo el jugador dentro de una partida. Además, se ofrecerá una lista de los personajes del juego, habilidades, objetos etc. Finalmente se modelará el mundo en el plano de movimiento.
 
 ## Jugabilidad
 
@@ -152,6 +156,9 @@ Las abejas se mueven hacia sus posiciones de origen desde donde estaban antes y 
 llegado, se mueven en modo de enjambre.
 
 ## Flujo de juego
+En esta sección se detallará el transcurso de una partida. Se comentarán los pilares que fundamentan su jugabilidad y se detallarán las acciones que podrá llevar a cabo el jugador dentro de una partida.
+
+El juego inicia con 3 cazas estelares (se puede obtener más). Te mueves a izquierda y derecha, se puede disparar teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si la nave es capturada por un Bossfighter, puedes matar al Bossfighter para recuperarlo, para obtener 2 cazas estelares a la vez y puede disparar 2 balas en un tiempo (máx. 4).
 
 ### Cambios de nivel
 
@@ -208,15 +215,9 @@ Si no quedan más vidas.
 
 ## Protagonista
 
-Obtienes 3 vidas al inicio del juego (*puedes obtener mas*).
-
-Te puedes mover de izquierda a derecha y puedes dispara un maximo de 2 balas en la pantalla al mismo tiempo
-
-Si un Boss Fighter te roba una vida puedes recuperarla para obtener un compañero y asi tener un maximo de 4 balas en la pantalla al mismo tiempo.
+**Descripción** Es una nave caza que vuela por el espacio, su objetivo es destruir las naves enemigas para pasar al siguiente nivel. Si un Boss Fighter te roba una vida puedes recuperarla para obtener un compañero y asi tener un maximo de 4 balas en la pantalla al mismo tiempo.
 
 ## Movimiento y fisicas
-
-> El jugador solo podra moverse de izquierda a derecha
 
 ## Interaccion entre elementos
 
@@ -237,11 +238,10 @@ Si un Boss Fighter te roba una vida puedes recuperarla para obtener un compañer
   > [`Enter`] Inicio / Pausa
 
 # Interfaz
-   
+En esta sección se especificará con detalle las pantallas que componen **Galaga**. Además, se indicarán las transiciones entre ellas. Las imágenes adjuntas son bocetos que ilustran los componentes que debe contener cada pantalla, no obstante, los artistas podrán hacer cambios en la apariencia y disposición de los elementos si así lo consideran oportuno.
 
 ## Diagrama de flujo
-El siguiente diagrama de estados muestra las pantallas presentes a lo largo de Galaga  y las transiciones
-entre ellas. En puntos posteriores nos centraremos en ellas de forma individual.
+El siguiente diagrama de estados muestra las pantallas presentes a lo largo de **Galaga** y las transiciones entre ellas. En puntos posteriores nos centraremos en ellas de forma individual.
 ![IMG-20160201-WA0003](https://user-images.githubusercontent.com/89058289/129837062-38a7a940-25e1-422a-b58b-0757c44ad254.jpg)
 
 ## Menu principal
@@ -250,6 +250,7 @@ Menú principal cuenta con dos opciones que son:
 * Botón 2 PLAYER (dos jugadores) que al pulsarlo lleva al primer jugador al primer nivel y una vez este muera lleva al segundo al primer nivel y asi susecivamnete al nivele que les corresponda por turnos de jugadores.
    Como se ve en la siguiente imagen:
    ![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)
+
 ## Creditos
 **Desarrollador:** Namco
 

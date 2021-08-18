@@ -102,7 +102,9 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
 
 
 ## Creditos
-
+Desarrollador: Namco
+Editor: Bandai América (NA), Namco (JP)
+Los creditos se les puede encontrar en la siguiente imagen(https://cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/virtual_console_wii_u_3/wiiuvc_galaga/WiiUVC_Galaga_01.bmp)
 
 ## Seleccion de perfil
 

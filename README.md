@@ -136,6 +136,16 @@ Como se muestra en la siguiente imagen:https://i.ytimg.com/vi/UPcO0HvIhkA/hqdefa
 
 
 ## Fin de nivel
+Las abejas enemigas explotan al colisionar con el jugador o la bala del jugador (la explosión dura 1 seg), las actualizaciones de puntuación, el número de enemigos de recuento resta 1.
+
+Unhurt BossFighters (green) pierden 1 vida &se convierten en blue  Player Death
+
+La nave del jugador explota cuando es alcanzada por una bala enemiga o cualquier enemigo.
+
+Si (vidas>0) Luego actualiza las vidas restantes, mueve a todos los enemigos de vuelta a sus posiciones de origen, pausa, muestra la pantalla "listo?" durante 2 segundos, haz una nueva nave y deja que el juego continúe como se ve en la siguinete imagen: https://oldgameshelf.com/roms/nes/galaga/images/upload-galaga-1573954570429.jpeg
+
+Si no quedan más vidas, mueva a todos los enemigos de vuelta a sus posiciones de origen, muestre "GAME OVER" durante 2 segundos, luego vaya a la pantalla de resultados (derecha-->)
+como muestra la siguiente imagen:https://www.gamesdatabase.org/Media/SYSTEM/Arcade/GameOver/big/Galaga_3_-_1984_-_Namco.jpg
 
 
 # Arte

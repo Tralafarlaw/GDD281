@@ -253,8 +253,8 @@ Menú principal cuenta con dos opciones que son:
 ## Creditos
 Desarrollador: Namco
 Editor: Bandai América (NA), Namco (JP)
-Los creditos se les puede encontrar en la siguiente imagen(https://cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/virtual_console_wii_u_3/wiiuvc_galaga/WiiUVC_Galaga_01.bmp)
-Costa de dos botones que son 1 Player y 2 Player que es la misma que la del menú principal 
+Los creditos se les puede encontrar en la siguiente imagen:
+![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)
 
 ## Seleccion de perfil
 En la selección de perfil se puede apreciar que no consta de perfiles para escoger ya que es un fuego que no tiene autoguardado en la cual solo consta de dos perfiles prediseñados en la que pueden jugar dos fugadores o uno y que también al escoger unos de los dos modos de juegos ya sea de un jugador o dos es directamente dirigido al nivel 1 como se puede apreciar en el fuego Super Mario Bros.

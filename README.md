@@ -307,8 +307,9 @@ Si (vidas>0) Luego actualiza las vidas restantes, mueve a todos los enemigos de 
 
 
 Si no quedan más vidas, mueva a todos los enemigos de vuelta a sus posiciones de origen, muestre "GAME OVER" durante 2 segundos, luego vaya a la pantalla de resultados (derecha-->)
-como muestra la siguiente imagen:https://www.gamesdatabase.org/Media/SYSTEM/Arcade/GameOver/big/Galaga_3_-_1984_-_Namco.jpg
+como muestra la siguiente imagen:
 
+![r2](https://user-images.githubusercontent.com/89058289/129839379-2e672bc0-5b5f-41d6-8c1d-546c6ab5bcca.jpg)
 
 # Arte
 **Galaga** debe tener un fondo oscuro que sea más de tipo espacial para que se pueda apreciar las naves de los alienígenas con colores resaltantes como también la casa estelar del jugador es una nave espacial notoria con colores mas resaltantes y en lo cual estos colores deben ser llamativos al igual que las balas para que no pueda existir conflicto con el fondo oscuro 

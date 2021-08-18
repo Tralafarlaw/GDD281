@@ -45,7 +45,7 @@ El juego se basa en los siguientes pilares:
    * **Planteamiento sencillo:** el objetivo del juego es muy simple, simplemente se requiere destruir las naves enemigas.
    * **Tactica:** mover la nave de izquierda a derecha, para esquivar tanto los misiles como los ataques de las naves enemigas, y con ayuda del cañon y nuestra punteria destruir las naves enemigas.
    * **Dinamismo:** **Galaga:** es un juego muy dinamico que muchas veces provoca en el jugador un sensacion de tención en el jugador.
-
+   * **Aplicación:** **Galaga** debe ser ampliable para nuevos niveles como así también para nuevos poderes de los enemigos como poderes nuevos de la nave aliada como también se deberá poder añadir nuevos campos de fuegos. 
 ## Genero
 
 

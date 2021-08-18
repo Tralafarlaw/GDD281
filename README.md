@@ -96,7 +96,6 @@ dificultad. En primera instancia se desarrollará un pack de contenidos básicos
    * Menú principal cuenta con dos opciones que son para 1 PLAYER (un jugador) y 2 PLAYER (dos jugadores) que van por turnos para jugar
    la imagen se puede ver :https://oldgameshelf.com/roms/nes/galaga/images/nes_galaga_1.jpg
    * Niveles se puede apreciar los niveles distintos en una de las paginas del fuego que es la siguiente:https://www.nintendo.es/Juegos/NES/Galaga--789285.html
-   * 
 
 ## Diagrama de flujo
 

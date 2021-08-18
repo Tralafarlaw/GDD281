@@ -272,9 +272,9 @@ Obtienes 3 cazas estelares al principio del juego (puedes obtener más).Teniendo
 Se puede apreciar en la siguiente imagen:
 ![e1](https://user-images.githubusercontent.com/89058289/129838657-6f365a8e-86ef-4726-b4a6-5c0cd08ad636.png)
 
+Cuando es retraido por el Bossfighter:
+![e2](https://user-images.githubusercontent.com/89058289/129838806-b4778c2a-bfc5-4a2f-8cfa-83d140b49b37.jpg)
 
-
-Cuando es retraido por el Bossfighter:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
 Cuando es recuperado el caza estelar:https://www.gamespot.com/a/uploads/original/gamespot/images/2007/105/reviews/790450-938076_20070416_001.jpg
 ## Nivel
 Espacio de desplazamiento / fondo de estrella (píxeles coloridos generados en varias capas que se mueven a diferentes velocidades).

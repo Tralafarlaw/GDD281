@@ -5,7 +5,7 @@ subtitle: "Grupo 15 INF-281 \"B\""
 author: 
   - Murllo Bernal Miguel
   - Rojas Medina Eddy Dorian
-  - Test 2
+  - Yampara Ichuta Ruddy Carlos
 date: Agosto 20, 2020
 header-includes:
   - \usepackage{titling}

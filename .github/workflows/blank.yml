@@ -32,12 +32,12 @@ jobs:
         uses: Ender-events/pandoc@master
         with:
           args: '-s -o README.pdf README.md'
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
+      #- uses: docker://pandoc/latex:2.9
+      #  with:
+      #    args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
           
           
       - uses: actions/upload-artifact@master
         with:
-          name: output
-          path: output
+          name: GDD
+          path: README.pdf

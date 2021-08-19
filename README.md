@@ -242,6 +242,7 @@ En esta sección se especificará con detalle las pantallas que componen **Galag
 
 ## Diagrama de flujo
 El siguiente diagrama de estados muestra las pantallas presentes a lo largo de **Galaga** y las transiciones entre ellas. En puntos posteriores nos centraremos en ellas de forma individual.
+
 ![IMG-20160201-WA0003](https://user-images.githubusercontent.com/89058289/129837062-38a7a940-25e1-422a-b58b-0757c44ad254.jpg)
 
 ## Menu principal
@@ -249,6 +250,7 @@ Menú principal cuenta con dos opciones que son:
 * Botón 1 PLAYER (un jugador) que al pulsar lleva al primer nivel del Galaga
 * Botón 2 PLAYER (dos jugadores) que al pulsarlo lleva al primer jugador al primer nivel y una vez este muera lleva al segundo al primer nivel y asi susecivamnete al nivele que les corresponda por turnos de jugadores.
    Como se ve en la siguiente imagen:
+   
    ![nes_galaga_1](https://user-images.githubusercontent.com/89058289/129838092-66ac8b01-0119-4cc0-a9c1-02baf7f1707e.jpg)
 
 ## Creditos
@@ -272,6 +274,7 @@ Como se puede apreciar en el siguiente video:https://www.youtube.com/watch?v=UPc
 ## Seleccion de habilidades
 Obtienes 3 cazas estelares al principio del juego (puedes obtener más).Teniendo un máximo de 2 balas en la pantalla al mismo tiempo. Si la casa estear es capturado por un Bossfighter, puedes matar al Bossfighter para recuperarlo, y luego lo hace se une con tu Caza Estelar actual para que tengas 2 cazas estelares a la vez y puedas disparar 2 balas a la vez (máximo 4).
 Se puede apreciar en la siguiente imagen:
+
 ![e1](https://user-images.githubusercontent.com/89058289/129838657-6f365a8e-86ef-4726-b4a6-5c0cd08ad636.png)
 
 Cuando es retraido por el Bossfighter:
